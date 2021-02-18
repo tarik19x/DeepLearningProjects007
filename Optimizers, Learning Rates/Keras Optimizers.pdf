@@ -1,1 +1,3 @@
-
+CheckPoint---->It will save the best model of from every epoc 
+EarlyStop---->it will check if the accuracy is improving or not for n numnber of time than will stop the training
+Reduce_lr---->
